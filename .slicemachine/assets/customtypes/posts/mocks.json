@@ -1,0 +1,61 @@
+{
+  "id": "a8d22e03-a948-4608-91e7-487b22e2ebab",
+  "uid": "placeat-et-sit",
+  "type": "posts",
+  "data": {
+    "title": "aggregate user-centric users",
+    "subtitle": "mesh enterprise content",
+    "author": "reinvent web-enabled solutions",
+    "image": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "evolve 24/7 e-commerce",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Et cillum officia sint incididunt eiusmod mollit magna sint reprehenderit incididunt esse ea proident. Et ex eu elit esse dolor.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "implement B2C convergence",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Dolor mollit cillum deserunt et. Irure esse laboris mollit ea. Incididunt laboris anim nostrud elit reprehenderit quis ut ullamco aliqua proident tempor minim.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "deploy wireless metrics",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Non nostrud eu elit tempor aliquip deserunt commodo dolor dolore exercitation. Cupidatat laborum anim pariatur consectetur. Ipsum eu ad consequat velit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "reinvent world-class e-business",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Dolore irure labore adipisicing laboris minim et laboris minim excepteur nostrud quis sunt consequat fugiat. Mollit anim eiusmod incididunt. Irure occaecat deserunt eiusmod in sit deserunt non nostrud cupidatat reprehenderit et duis aliquip.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

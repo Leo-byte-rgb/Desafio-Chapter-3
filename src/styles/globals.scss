@@ -4,4 +4,39 @@
   padding: 0;
 }
 
-// TODO
+:root {
+  --background: #282c34;
+  --highlight: #ff57b2;
+  --body: #d7d7d7;
+  --info: #bbbbbb;
+  --heading: #f8f8f8;
+}
+
+body {
+  background-color: var(--background);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  text-align: justify;
+  letter-spacing: -0.5px;
+}
+h6 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: justify;
+}

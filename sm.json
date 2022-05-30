@@ -1,0 +1,7 @@
+{
+  "_latest": "0.3.8",
+  "apiEndpoint": "https://chapecter-3-rocketseat.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ]
+}
